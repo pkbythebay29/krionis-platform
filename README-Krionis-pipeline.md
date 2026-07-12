@@ -195,9 +195,14 @@ curl -X POST http://localhost:8000/query \
 
 ---
 
-## 📜 License
+## License
 
-MIT License
+Krionis Pipeline is distributed under a custom source-available license.
+
+Free use is permitted only for non-commercial research, academic, educational, and internal evaluation purposes.
+Any commercial use requires a separate paid commercial license from the copyright holder.
+
+See `LICENSE` for the full terms.
 
 ---
 
@@ -213,3 +218,4 @@ The repository includes a documentation portal scaffold for developers building 
 - ReDoc reference: `/api/reference`
 - Static docs source: `docs/`
 - Docs build config: `mkdocs.yml`
+

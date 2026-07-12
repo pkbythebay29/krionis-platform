@@ -16,6 +16,7 @@ setup(
     author="pkbythebay29",
     author_email="kannan@haztechrisk.org",
     description="Krionis Pipeline - multimodal RAG pipeline for low-compute, local, real-world deployment",
+    license="Custom - free for research and evaluation; commercial license required",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pkbythebay29/krionis-platform",
@@ -39,7 +40,7 @@ setup(
         "Development Status :: 5 - Production/Stable",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3 :: Only",
-        "License :: OSI Approved :: MIT License",
+        "License :: Other/Proprietary License",
         "Operating System :: OS Independent",
         "Topic :: Software Development :: Libraries",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
@@ -49,3 +50,4 @@ setup(
         "Source": "https://github.com/pkbythebay29/krionis-platform",
     },
 )
+

@@ -1,21 +1,46 @@
-MIT License
+Krionis Research License with Commercial Use Restriction
 
 Copyright (c) 2025 MrCleanRoom
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Grant of Free Research License
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted, free of charge, to any person or organization obtaining a copy
+of this software and associated documentation files (the "Software") to use, copy,
+modify, and distribute the Software solely for non-commercial research, academic,
+scholarly, educational, or internal evaluation purposes, subject to the conditions below.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Commercial Use Requires a Separate Paid License
+
+Any commercial use of the Software is prohibited unless you first obtain a separate
+written commercial license from the copyright holder.
+
+For purposes of this license, "commercial use" includes, without limitation:
+
+- use of the Software in or for a business, commercial, governmental, or revenue-generating activity;
+- use of the Software to provide services to third parties;
+- use of the Software in production systems or internal business operations;
+- sale, resale, licensing, sublicensing, hosting, or distribution of the Software or derivative works for commercial advantage;
+- consulting, contracting, or other paid services that rely on the Software.
+
+3. Conditions
+
+The above copyright notice and this license notice shall be included in all copies
+or substantial portions of the Software that are shared under the free research license.
+
+4. No Trademark Rights
+
+This license does not grant any right to use the names, trademarks, service marks,
+or logos of the copyright holder except as required for accurate attribution.
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Commercial Licensing Contact
+
+To obtain commercial licensing terms, contact the copyright holder.
